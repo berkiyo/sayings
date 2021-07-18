@@ -1,2 +1,2 @@
 # sayings
-A beautiful app/PWA that generates quotes
+A beautiful quotes app written for iOS.
